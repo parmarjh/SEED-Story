@@ -1,4 +1,4 @@
-# SEED-Story
+# SEED-Story Generator
 [![arXiv](https://img.shields.io/badge/arXiv-2407.08683-b31b1b.svg)](https://arxiv.org/abs/2407.08683)
 [![Static Badge](https://img.shields.io/badge/Model-Huggingface-yellow)](https://huggingface.co/TencentARC/SEED-Story)
 [![Static Badge](https://img.shields.io/badge/Dataset-Huggingface-yellow)](https://huggingface.co/datasets/TencentARC/StoryStream)
